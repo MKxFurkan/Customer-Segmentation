@@ -1,0 +1,3 @@
+Year_Birth : Outliers
+Marital_Status : 2 unusual categr values
+
